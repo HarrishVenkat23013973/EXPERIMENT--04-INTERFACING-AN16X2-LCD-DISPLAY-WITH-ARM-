@@ -1,4 +1,5 @@
 # EXPERIMENT 4:INTERFACING AN 16X2 LCD DISPLAY WITH ARM AND DISPLAY STRING
+### DATE:23-09-2025
 
  ## Aim: 
  To Interface a 16X2 LCD display to ARM controller  , and simulate it in Proteus 
@@ -279,11 +280,11 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## Output screen shots of proteus  :
-![WhatsApp Image 2025-09-23 at 08 33 48_3ae41303](https://github.com/user-attachments/assets/d848d77d-167f-4f4c-a100-f12e7a3c7bc1)
+![WhatsApp Image 2025-09-23 at 08 33 48_63808440](https://github.com/user-attachments/assets/ffb681de-f701-43af-8b4f-a752699ce36e)
 
  
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
- <img width="1021" height="832" alt="image" src="https://github.com/user-attachments/assets/b59cdd00-bac4-440c-91fa-004f03a312fb" />
+<img width="1024" height="848" alt="image" src="https://github.com/user-attachments/assets/5cde9f31-f973-472f-834b-7020b60b936c" />
 
  
 ## Result :
